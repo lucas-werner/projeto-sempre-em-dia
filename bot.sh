@@ -15,7 +15,7 @@
 #
 info="Commit: $(date)"
 
-cd ~/Desktop/code/commit-bot/
+cd ~/repositories/sempre-em-dia
 echo "$info" >> output.txt
 echo "$info"
 echo
