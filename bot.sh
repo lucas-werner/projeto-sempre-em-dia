@@ -4,7 +4,7 @@
 
 info="Commit: $(date)"
 
-cd ~/repositories/sempre-em-dia/
+cd ~/repositories/bot-scripts/sempre-em-dia/
 echo "$info" >> output.txt
 echo "$info"
 echo
